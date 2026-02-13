@@ -8,7 +8,7 @@ A lightweight XML‑driven swipe transition library for Android that lets you cr
 
 ## ✨ **Features**
 
--Swipe images horizontally, vertically, or in all directions
+- Swipe images horizontally, vertically, or in all directions
 
 - Smooth transition animations
 
